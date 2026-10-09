@@ -1,13 +1,9 @@
 ---
 title: "Do Fechamento Operacional ao BI: Por que o Contador Precisa Pensar como Analista de Dados"
-description: "Descubra como migrar de rotinas manuais no Excel para esteiras analíticas modernas com SQL, Power Query e Power BI na contabilidade e controladoria."
-date: 2026-10-09
-tags: ["Contabilidade", "Financial Analytics", "Power BI", "Controladoria", "Automação"]
-categories: ["Finanças e Dados"]
-author: "Seu Nome"
-draft: false
+date: 2026-10-09 18:00:00 -0300
+categories: [Contabilidade, BI]
+tags: [excel, powerquery, bi, fechamento]
 ---
-
 Durante muito tempo, o sucesso do fechamento contábil foi medido por uma única métrica: **entregar balancetes e conciliações no prazo sem divergências**.
 
 Se você trabalha na área financeira ou contábil, conhece bem essa rotina: exportar relatórios em `.txt` ou `.xlsx` de um ERP engessado, cruzar bases no `PROCV` ou `XLOOKUP`, tratar divergências de centavos e colar o resultado final em uma apresentação estática de slides.
