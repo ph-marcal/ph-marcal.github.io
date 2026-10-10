@@ -16,7 +16,7 @@ timezone: America/Sao_Paulo
 
 title: Paulo Marçal # the main title
 
-tagline: Contabilidade, Engenharia de Dados & Automação Financeira # it will display as the subtitle
+tagline: Contabilidade, Análise de Dados & Automação Financeira # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Contabilidade e dados na prática — automação financeira com Power Query, SQL, Python e Power BI.

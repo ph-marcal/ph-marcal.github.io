@@ -6,13 +6,13 @@ order: 4
 
 Olá! Sou o **Paulo Marçal**.
 
-Neste blog partilho artigos práticos e tutoriais focados na interseção entre **Finanças, Contabilidade e Tecnologia**:
+Neste blog compartilho artigos práticos e tutoriais focados na interseção entre **Finanças, Contabilidade e Tecnologia**:
 
-- 📊 **Automação Financeira & Fecho Contabilístico**
+- 📊 **Automação Financeira & Fechamento Contábil**
 - 🔄 **ETL e Tratamento de Dados** com Power Query e SQL
 - 🐍 **Python** aplicado a Finanças e Contabilidade
-- 📈 **Business Intelligence (Power BI)** e modelação de dados
+- 📈 **Business Intelligence (Power BI)** e modelagem de dados
 
-### Contacto
+### Contato
 - **GitHub:** [github.com/ph-marcal](https://github.com/ph-marcal)
 - **LinkedIn:** [Paulo Marçal](https://www.linkedin.com/in/pmarcal)
